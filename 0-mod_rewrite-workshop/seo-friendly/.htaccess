@@ -1,0 +1,3 @@
+RewriteEngine On
+
+RewriteRule ^user/([0-9]+)/([a-z]+)$ ?mod=user&id=$1&view=$2 [NC,L]

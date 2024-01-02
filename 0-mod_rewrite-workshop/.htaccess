@@ -1,0 +1,1 @@
+ErrorDocument 404 /mod_rewrite/404.php
